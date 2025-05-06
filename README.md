@@ -13,7 +13,7 @@ Zhiyu Pan, Xiongjin Guan, Yongjie Duan, Jianjiang Feng, and Jie Zhou
 **FLARE** is a fingerprint recognition framework designed for robust and efficient matching using fixed-length dense descriptors. It integrates:
 
 - 🧠 **Dense Descriptor** (to be released upon acceptance)
-- 🧩 **Pose-Aware Alignment** (via [FLARE-Align](https://github.com/your-align-link))
+- 🧩 **Pose-Aware Alignment** (via [FLARE-Align](https://github.com/XiongjunGuan/DRACO))
 - 🧪 **Robust Enhancement** (via [FLARE-Enh](https://github.com/Yu-Yy/FLARE_ENH))
 
 This repository currently contains references and links to the **pose estimation** and **enhancement** modules only.  
