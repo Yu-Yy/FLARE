@@ -36,14 +36,13 @@ The core code for descriptor extraction and matching will be released **after th
 Please cite the following if you reference FLARE or use our enhancement modules:
 
 ```
-
-@article{Pan2025FLARE,
-title     = {Fixed-Length Dense Fingerprint Representation},
-author    = {Zhiyu Pan and Xiongjin Guan and Yongjie Duan and Jianjiang Feng and Jie Zhou},
-journal   = {IEEE Transactions on Information Forensics and Security (under review)},
-year      = {2025}
+@article{pan2025flare,
+  title={Fixed-Length Dense Fingerprint Representation},
+  author={Pan, Zhiyu and Guan, Xiongjun and Duan, Yongjie and Feng, Jianjiang and Zhou, Jie},
+  journal={arXiv preprint arXiv:2505.03597},
+  year={2025},
+  url={https://arxiv.org/abs/2505.03597}
 }
-
 ```
 
 ---
