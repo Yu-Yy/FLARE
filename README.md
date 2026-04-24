@@ -148,3 +148,6 @@ This project is released under the **Academic Research License**. It is provided
 
 For technical issues or collaboration, please reach out to:
 **Zhiyu Pan** (pzy20@mails.tsinghua.edu.cn)
+
+For research collaboration or other inquiries, please contact the corresponding authors:
+**Jianjiang Feng** (jfeng@tsinghua.edu.cn)
