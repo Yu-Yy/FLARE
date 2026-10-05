@@ -2,7 +2,7 @@
 
 # FLARE: Fixed-Length Dense Fingerprint Representation 
 
-**Fixed-Length Dense Fingerprint Representation With Alignment and Robust Enhancement With Alignment and Robust Enhancement**
+**Fixed-Length Dense Fingerprint Representation With Alignment and Robust Enhancement**
 
 [![Paper](https://img.shields.io/badge/IEEE_Xplore-Paper-blue.svg)](https://ieeexplore.ieee.org/abstract/document/11367048)
 [![Venue](https://img.shields.io/badge/Journal-TIFS_2026-red.svg)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
